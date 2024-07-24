@@ -23,7 +23,7 @@ If you find MV_LADDM useful in your research, please consider citing:
 
     @article{jiang2021muti,
       title={Muti-view Mouse Social Behaviour Recognition with Deep Graphic Model},
-      author={Jiang, Zheheng and Zhou, Feixiang and Zhao, Aite and Li, Xin and Li, Ling and Tao, Dacheng and Li, Xuelong and Zhou, Huiyu},
+      author={Jiang, Zheheng* and Zhou, Feixiang* and Zhao, Aite and Li, Xin and Li, Ling and Tao, Dacheng and Li, Xuelong and Zhou, Huiyu},
       journal={IEEE Transactions on Image Processing},
       year={2021},
       publisher={IEEE}
